@@ -44,6 +44,6 @@ seed_examples:
 task_description: ""
 document:
   repo: https://github.com/xiaolianggong/taxonomy
-  commit: 1dc85d0fc19e21ad8adbf5f98bd8aa1e31257d0a
+  commit: b44d8e2698424b98274923f13bf7549d22ebdb09
   patterns:
     - pancreaticoduodenectomy.md
